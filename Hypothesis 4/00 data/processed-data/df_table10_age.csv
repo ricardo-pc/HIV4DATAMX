@@ -1,0 +1,81 @@
+Age Group,Transmission Category,Number of diagnosis
+< 1,Sexual,0
+1 - 4,Sexual,12
+5 - 9,Sexual,48
+10 - 14,Sexual,274
+15 - 19,Sexual,11342
+20 - 24,Sexual,48021
+25 - 29,Sexual,65784
+30 - 34,Sexual,58581
+35 - 39,Sexual,43200
+40 - 44,Sexual,30922
+45 - 49,Sexual,21063
+50 - 54,Sexual,13606
+55 - 59,Sexual,8336
+60 - 64,Sexual,4417
+65+,Sexual,3885
+Unknown,Sexual,455
+< 1,Blood-Borne,9
+1 - 4,Blood-Borne,43
+5 - 9,Blood-Borne,49
+10 - 14,Blood-Borne,49
+15 - 19,Blood-Borne,50
+20 - 24,Blood-Borne,234
+25 - 29,Blood-Borne,410
+30 - 34,Blood-Borne,477
+35 - 39,Blood-Borne,390
+40 - 44,Blood-Borne,296
+45 - 49,Blood-Borne,212
+50 - 54,Blood-Borne,144
+55 - 59,Blood-Borne,89
+60 - 64,Blood-Borne,57
+65+,Blood-Borne,71
+Unknown,Blood-Borne,25
+< 1,IDU,0
+1 - 4,IDU,0
+5 - 9,IDU,0
+10 - 14,IDU,2
+15 - 19,IDU,108
+20 - 24,IDU,405
+25 - 29,IDU,784
+30 - 34,IDU,793
+35 - 39,IDU,658
+40 - 44,IDU,448
+45 - 49,IDU,265
+50 - 54,IDU,179
+55 - 59,IDU,66
+60 - 64,IDU,22
+65+,IDU,15
+Unknown,IDU,15
+< 1,Vertical,1195
+1 - 4,Vertical,1947
+5 - 9,Vertical,875
+10 - 14,Vertical,260
+15 - 19,Vertical,5
+20 - 24,Vertical,3
+25 - 29,Vertical,1
+30 - 34,Vertical,0
+35 - 39,Vertical,0
+40 - 44,Vertical,0
+45 - 49,Vertical,0
+50 - 54,Vertical,0
+55 - 59,Vertical,0
+60 - 64,Vertical,0
+65+,Vertical,0
+Unknown,Vertical,2
+< 1,Not Specified,186
+1 - 4,Not Specified,304
+5 - 9,Not Specified,192
+10 - 14,Not Specified,194
+15 - 19,Not Specified,819
+20 - 24,Not Specified,4648
+25 - 29,Not Specified,9133
+30 - 34,Not Specified,10498
+35 - 39,Not Specified,9074
+40 - 44,Not Specified,6660
+45 - 49,Not Specified,4526
+50 - 54,Not Specified,3054
+55 - 59,Not Specified,1999
+60 - 64,Not Specified,1340
+65+,Not Specified,1344
+Unknown,Not Specified,726
