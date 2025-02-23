@@ -116,6 +116,6 @@ Each hypothesis will be proven or disproven using the following statistical fram
 ## Analysis of each hypothesis using Jupyter Notebook
 
 - Hypothesis 4: Benefits of Targeted Public Health Campaigns
-   - Data Preparation Notebook - 
-   - Exploratory Data Analysis Notebook - 
-   - Hypothesis Testing Notebook -  
+   - [Data Preparation Notebook](https://github.com/ricardo-pc/HIV4DATAMX/blob/main/Hypothesis%204/01%20data%20preparation/h4-data-prepation.ipynb)
+   - [Exploratory Data Analysis Notebook](https://github.com/ricardo-pc/HIV4DATAMX/blob/main/Hypothesis%204/02%20exploratory%20data%20analysis/h4-exploratory-data-analysis.ipynb)
+   - [Hypothesis Testing Notebook](https://github.com/ricardo-pc/HIV4DATAMX/blob/main/Hypothesis%204/03%20hypothesis%20testing/h4-hypothesis-testing.ipynb) 
